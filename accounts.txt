@@ -1,0 +1,6 @@
+001 Aziz Rs.10000B
+002 Ahmed Rs.4000
+003 Ali Rs.5000
+004 Aisha Rs.6000
+005 Amira Rs.7000
+006 Omar Rs.8000
