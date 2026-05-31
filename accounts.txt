@@ -1,0 +1,10 @@
+1000 Aziz Rs.10000B
+1001 Ahmed Rs.4000
+1002 Ali Rs.5000
+1003 Aisha Rs.6000
+1004 Amira Rs.7000
+1005 Omar Rs.8000
+1006 Aziz Rs.5000
+1007 Aziz Rs.5000
+1008 MuhammadAziz Rs.500000
+1009 SamiKhan Rs.23999
